@@ -38,7 +38,6 @@ This project analyzes flood impact on different Land Use Land Cover (LULC) class
 * QGIS
 
 ## **Outputs**
-* Flood extent map
   <img width="580" height="1007" alt="feni fw copy" src="https://github.com/user-attachments/assets/8de98491-1abd-4192-87b8-b85978569943" />
 *Figure 1: Methodological Flowchart*
 * LULC classification map
