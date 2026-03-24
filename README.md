@@ -1,6 +1,6 @@
 # Flood-Impact-Assessment-of-Feni-in-2024-using-Sentinel-1-and-Sentinel-2
-#**Flood Impact Analysis using Sentinel-1 and Sentinel-2**
-##**Overview**
+# **Flood Impact Analysis using Sentinel-1 and Sentinel-2**
+## **Overview**
 This project analyzes flood impact on different Land Use Land Cover (LULC) classes using satellite imagery and GIS techniques. The study focuses on identifying flooded areas and quantifying their impact across vegetation, agriculture, settlements, water bodies, and bare land.
 ##**Objectives**
 *   Detect flood extent using satellite data
