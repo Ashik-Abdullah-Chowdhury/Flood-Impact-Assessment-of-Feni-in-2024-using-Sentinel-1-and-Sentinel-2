@@ -32,12 +32,13 @@ This project analyzes flood impact on different Land Use Land Cover (LULC) class
 | Agriculture | 129.16     | 4.03          |3.12      |
 | Settlement  | 9.61       | 0.30          |3.43      |
 | Bareland    | 10.36      | 0.52          |5.02      |
+
 ##**Tools & Technologies**
 * Google Earth Engine
 * QGIS
+
 ##**Outputs**
 * Flood extent map
-
 * LULC classification map
 
 ##**Author**
