@@ -42,7 +42,7 @@ This project analyzes flood impact on different Land Use Land Cover (LULC) class
 ## **Outputs**
 <img width="580" height="1007" alt="feni fw copy" src="https://github.com/user-attachments/assets/8de98491-1abd-4192-87b8-b85978569943" /><br>
 *Figure 2: Flood Extent Map of Feni*
-* LULC classification map
+
 <img width="580" height="1007" alt="lulc feni" src="https://github.com/user-attachments/assets/6d2b5dee-dd45-44ea-b399-a8a5c35c7e63" /><br>
 *Figure 3: LULC of Feni*
 
