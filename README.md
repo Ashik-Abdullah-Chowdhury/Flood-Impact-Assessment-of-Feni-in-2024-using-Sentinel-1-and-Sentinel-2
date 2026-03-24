@@ -20,6 +20,8 @@ This project analyzes flood impact on different Land Use Land Cover (LULC) class
 * Overlaid flood map with LULC to calculate affected area
 * Generated maps and summarized results
 ## **Methodological Flowchart**
+<img width="734" height="841" alt="flood_mapping_GEE_workflow_1" src="https://github.com/user-attachments/assets/1dbb1f62-4b58-461d-90c6-d0bc5410e50c" /><br>
+*Figure 1: Methodological Flowchart*
 ## **Sample Results**
 ### **Flood Extent**
 * Permanent Water Area: 2.19 km²
@@ -39,9 +41,10 @@ This project analyzes flood impact on different Land Use Land Cover (LULC) class
 
 ## **Outputs**
   <img width="580" height="1007" alt="feni fw copy" src="https://github.com/user-attachments/assets/8de98491-1abd-4192-87b8-b85978569943" /><br>
-*Figure 1: Methodological Flowchart*
+*Figure 2: Flood Extent Map of Feni*
 * LULC classification map
-<img width="580" height="1007" alt="lulc feni" src="https://github.com/user-attachments/assets/6d2b5dee-dd45-44ea-b399-a8a5c35c7e63" />
+<img width="580" height="1007" alt="lulc feni" src="https://github.com/user-attachments/assets/6d2b5dee-dd45-44ea-b399-a8a5c35c7e63" /><br>
+*Figure 3: LULC of Feni*
 
 ## **Author**
 Ashik Abdullah<br>
